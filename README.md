@@ -45,7 +45,7 @@ We welcome pull requests from anyone who is happy to share their notes, and woul
 
 ### Guidelines for contributions
 
-A full tutorial for contributors can be found [here](https://warwick.guide/CSRGContributing/index.md)
+A full tutorial for contributors can be found [here](https://warwick.guide/CSRGContributing).
 
 To ensure the smooth running of the this project, and avoid any contributions having to be removed, please follow the below guidelines:
 
@@ -58,7 +58,7 @@ To ensure the smooth running of the this project, and avoid any contributions ha
 
 ## Style guide
 
-The style guide can be found [here](https://warwick.guide/CSRGContributing/styleguide.html)
+The style guide can be found [here](https://warwick.guide/CSRGContributing/styleguide.html).
 
 We will appreciate if contributors abide by these formatting guidelines, as it ensures that the layout of the website is perfect. That said, nothing will break if you don't do so, just certain things (table of contents) won't be as user friendly as it should be.
 
@@ -113,7 +113,7 @@ We will appreciate if contributors abide by these formatting guidelines, as it e
       <td align="center" valign="top" width="14.28%"><a href="http://kevinzonda.com"><img src="https://avatars.githubusercontent.com/u/33132228?v=4?s=100" width="100px;" alt="KevinZønda"/><br /><sub><b>KevinZønda</b></sub></a><br /><a href="https://github.com/CSRG-Group/dcs-notes.github.io/issues?q=author%3AKevinZonda" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/pzet123"><img src="https://avatars.githubusercontent.com/u/52672507?v=4?s=100" width="100px;" alt="Piotr Zychlinski"/><br /><sub><b>Piotr Zychlinski</b></sub></a><br /><a href="#content-pzet123" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SwiftfoxStudios"><img src="https://avatars.githubusercontent.com/u/43422037?v=4?s=100" width="100px;" alt="Antonio Brito"/><br /><sub><b>Antonio Brito</b></sub></a><br /><a href="#content-SwiftfoxStudios" title="Content">🖋</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/starLiteAstro"><img src="https://avatars.githubusercontent.com/u/70979587?v=4?s=100" width="100px;" alt="hapaxlegomena"/><br /><sub><b>hapaxlegomena</b></sub></a><br /><a href="https://github.com/CSRG-Group/dcs-notes.github.io/issues?q=author%3AstarLiteAstro" title="Bug reports">🐛</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/starLiteAstro"><img src="https://avatars.githubusercontent.com/u/70979587?v=4?s=100" width="100px;" alt="hapaxlegomena"/><br /><sub><b>starliteastro</b></sub></a><br /><a href="https://github.com/CSRG-Group/dcs-notes.github.io/issues?q=author%3AstarLiteAstro" title="Bug reports">🐛</a></td>
     </tr>
   </tbody>
 </table>
